@@ -11,6 +11,9 @@ body {
 a:link, a:active, a:visited {
     color: #af670a;
 }
+a:hover {
+    color: #227115;
+}
 
 /* logo -------------------*/
 
@@ -35,4 +38,15 @@ nav ul {
 
 nav ul li {
     float: left;
+}
+
+nav ul li a:link {
+    display: block;
+    margin-right: 25px;
+    padding-bottom: 3px;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover {
+    border-bottom: 1px solid #535858;
 }
