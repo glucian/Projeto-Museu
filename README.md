@@ -1,2 +1,2 @@
 # Projeto-Museu
- Primeiro Projeto 
+ Primeiro Projeto utilizando css e html. Site fictício do museu nacional.
